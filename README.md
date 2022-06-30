@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola 🌵
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anscharivs&layout=compact&exclude_repo=proyectobase_tap,GridWebBasico,XML-Examen,SIRETI-Examen,Practica2&hide=TSQL,blade,shell&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anscharivs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **anscharivs/anscharivs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
